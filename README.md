@@ -1,4 +1,4 @@
 - 👋 Hello Everyone, I'm Alix Silvert. Classicaly trained as a bioinformatician and interested in data in general.
-- 👀 I’m currently looking for a job in the Berlin area ! I would like to take this opportunity to make the jump to data science !
-- 🌟 Most of my professional work is either in private or in lab repositories who like to keep their cards close to the chest, but here's one I'm currently working on https://github.com/ipop-up/doridot-sncell
+- 👀 I’m currently looking for a job in the Berlin or Paris area ! I would like to take this opportunity to make the jump to data science !
+- 🌟 Most of my professional work is done with labs that like to keep their cards close to the chest, but here's one I'm currently working on https://github.com/ipop-up/doridot-sncell
 - 👷 My personnal data science projects are incomming ! Please stay tunned !
