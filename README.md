@@ -8,6 +8,4 @@ https://github.com/ipop-up/doridot-sncell
 
 ## Data Science 📈
 - [_Analysis and prediction of early diabetes_](https://github.com/AlixSil/diabetes_prediction) : In this, I take two different approach, the first one aiming at a human doable and quick classification for patients, and in a second part, I compare the accuracy obtainable by Random Forest, Gradient Boosting and LDE.
- 
-## Data Scrapping 🗃️
-- [_Scrapping of theses.fr_](https://github.com/AlixSil/scrapping_thesefr) : Scrapping of the website theses.fr, which contains data on most thesis defended in France. The scrapping is made via the use of BeautifulSoup and uses snakemake as a way to cut the scrapping into several chunks to avoid having to relaunch the whole analysis in case of error. This is still WIP, but functional.
+- [ Analysis of the effects of normalisation of RNA on survival prediction ](https://github.com/AlixSil/sklearn-rna) : For this project, I am creating a library that allow RNA normalisation with the fit/transform paradigm of data science. I am also investigating the impact of normalisation on survival prediction. Not only by comparing the efficiency of several normalisation methods, but also by checking wether normalising test and train data together (as it is often done) lead to a data leakage strong enough to inflate the prediction quality.
